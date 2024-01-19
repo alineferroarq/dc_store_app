@@ -2,7 +2,8 @@
 import './App.css'
 import { MenuBar } from '../componets/header/MenuBar';
 import { Outlet } from 'react-router-dom';
-import { Footer } from '../componets/footer/footer';
+import { Footer } from '../componets/footer/Footer';
+
 
 
 function App() {

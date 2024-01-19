@@ -12,6 +12,10 @@ import { Home } from '../pages/home/Home.jsx';
 import { Produtos } from '../pages/produtos/Produtos.jsx';
 import { Categorias } from '../pages/categorias/Categorias.jsx';
 import { NotFound } from '../pages/notFound/NotFound.jsx';
+{
+  /* The following line can be included in your src/index.js or App.js file */
+}
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
